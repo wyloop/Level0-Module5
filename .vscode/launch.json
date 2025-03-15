@@ -3,6 +3,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForLoopGauntlet",
+            "request": "launch",
+            "mainClass": "_02_nested_loops._3_for_loop_gauntlet.ForLoopGauntlet",
+            "projectName": "Level0-Module5_26c0ea0a"
+        },
+        {
+            "type": "java",
+            "name": "AmazingRings",
+            "request": "launch",
+            "mainClass": "_02_nested_loops._2_amazing_rings.AmazingRings",
+            "projectName": "Level0-Module5_26c0ea0a"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "_01_algorithms._2_fibonacci.Fibonacci",
+            "projectName": "Level0-Module5_26c0ea0a"
+        },
+        {
+            "type": "java",
+            "name": "PrimeOrNot",
+            "request": "launch",
+            "mainClass": "_01_algorithms._1_prime_or_not.PrimeOrNot",
+            "projectName": "Level0-Module5_26c0ea0a"
+        },
+        {
+            "type": "java",
             "name": "Calculator",
             "request": "launch",
             "mainClass": "_03_method_writing._4_calculator.Calculator"
